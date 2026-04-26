@@ -2,10 +2,16 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 coach: Melissa
+=======
+coach: Lupi
+>>>>>>> 52e38f0e1e741f6f04e4fa7c4d2c3a84e55926d5
 
 members
 - Linda
 - Milliam
 - David
 - Olivia
+- Evie
+- Dongho
